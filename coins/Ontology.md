@@ -1,6 +1,6 @@
 # Ontology:
 
-Basically NEO but tech rewritten and upgraded in a few parts.
+TO THE MOON 
 
 ## Red Flag:
 https://coinmarketcap.com/currencies/ontology/
